@@ -7,5 +7,4 @@ This is a modern, fully responsive landing page built using **HTML5, CSS3, and B
   - Interactive Elements: Includes dynamic components such as carousels, accordions, and responsive navigation bars.
   - Cross-Browser Compatibility: Works smoothly across Chrome, Firefox, Safari, and Edge.
 ##Preview
-
 ![](https://github.com/izafatagiyeva/Salord-real-estate/blob/main/salord-record-gif.gif)
